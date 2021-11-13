@@ -10,12 +10,12 @@ import Footer from './Layouts/Footer';
 function App() {
   return (
     <div className="App">
-   <Navbar/>
-   <HomePage/>
-    <About/>
-    <Travel/>
-   <Blog/>
-   <Footer/>
+      <Navbar />
+      <HomePage />
+      <About />
+      <Travel />
+      <Blog />
+      <Footer />
     </div>
   );
 }
